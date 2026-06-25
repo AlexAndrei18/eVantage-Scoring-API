@@ -1,0 +1,12 @@
+2026-06-23 23:41:12,482 - INFO - Cerere noua primita: Varsta=0, Venit=0.0
+2026-06-23 23:41:12,482 - ERROR - Eroare interna la calcularea riscului: 'LoanInput' object has no attribute 'loan_amount'
+2026-06-23 23:42:12,431 - INFO - Cerere noua primita: Varsta=30, Venit=45000.0
+2026-06-23 23:42:12,431 - ERROR - Eroare interna la calcularea riscului: 'LoanInput' object has no attribute 'loan_amount'
+2026-06-23 23:43:31,179 - INFO - Cerere noua primita: Varsta=30, Venit=60000.0
+2026-06-23 23:43:31,180 - INFO - Evaluare finalizata cu succes. Categoria: LOW
+2026-06-25 22:47:10,383 - INFO - Cerere noua primita: Varsta=35, Venit=50000.0
+2026-06-25 22:47:10,383 - INFO - Evaluare finalizata cu succes. Categoria: LOW
+2026-06-26 00:34:02,630 - INFO - Cerere noua primita: Varsta=22, Venit=30000.0
+2026-06-26 00:34:02,632 - INFO - Evaluare finalizata cu succes. Categoria: MEDIUM
+2026-06-26 00:56:26,614 - INFO - Cerere noua primita: Varsta=44, Venit=77000.0
+2026-06-26 00:56:26,614 - INFO - Evaluare finalizata cu succes. Categoria: MEDIUM
